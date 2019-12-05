@@ -1,0 +1,10 @@
+html {
+    padding: 40px;
+    text-align: center;
+    background-color: snow;
+}
+
+#reloj {
+    font-size: 60px;
+    color: rgb(223, 135, 135);
+}
